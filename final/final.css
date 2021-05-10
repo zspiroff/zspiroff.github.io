@@ -1,0 +1,99 @@
+body {
+    background-color: lightblue;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+    font-size: 100%;
+    font-family: 'Playfair Display', serif;
+}
+
+#wrap {
+    width: 70%;
+    margin: 0 auto;
+    background-color: lemonchiffon;
+}
+
+header img {
+    width: 70%;
+    margin-left: 0px;
+    height: auto;
+}
+
+header {
+    padding: 5px;
+    background-color: steelblue;
+}
+
+nav {
+    background-color: lightsalmon;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: white;
+    font-family: 'Playfair Display', serif;
+    padding: 20px 30px;
+    text-decoration: none;
+    font-size: 120%;
+}
+
+nav a:hover {
+    background-color: lightblue;
+    color: navy;
+}
+
+nav li {
+    display: inline;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+}
+
+section {
+    padding: 1% 4%;
+    overflow: auto;
+}
+
+section h1,
+section h2 {
+    color: #0b3d91;
+    font-family: 'Playfair Display', serif;
+    font-size: 250%;
+    text-align: center
+}
+
+section h2 {
+    color: coral;
+    font-size: 200%;
+    text-align: center font-family: fantasy;
+}
+
+footer {
+    background-color: #0b3d91;
+    color: white;
+    padding: 15px;
+    text-align: center;
+}
+
+.greatwhite {
+    width: 30%;
+    float: right;
+}
+
+.button {
+    background-color: #0b3d91;
+    color: white;
+    text-decoration: none;
+    padding: 15px;
+    font-size: 20px;
+    display: inline-block;
+    border-radius: 10px;
+}
+
+a.button:hover {
+    background-color: #ec3d0f;
+}
+G-0CG4QXYFCK
